@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/guanzhu_style_selector.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/ic_back_arrow_background.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/ic_baseline_camera.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/ic_baseline_image.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18854166666666666" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/zhuanyelist_color_selector.xml" value="0.18854166666666666" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/drawable/zhuanyelist_item_text_selector.xml" value="0.18854166666666666" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_add_haoyou.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_bianji.xml" value="0.4" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_friends_app_main.xml" value="0.22" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_haoyouliebiao.xml" value="0.22" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_haoyoulist.xml" value="0.4" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_main.xml" value="0.2777777777777778" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_major_setting.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_profile.xml" value="0.4" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_splash.xml" value="0.152" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_tongxue_haoyou.xml" value="0.264" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_xiangxixinxi.xml" value="0.2" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_zhuanye.xml" value="0.8" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/activity_zitidaxiao.xml" value="0.4" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/bianji_diaolog_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/dialog_custom_image_selection.xml" value="0.264" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/tianjia_diaolog_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/layout/tongxue_haoyou_row.xml" value="0.22010869565217392" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/bottom_menu.xml" value="0.6" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/kuaijiecaidan.xml" value="0.536" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/kuaijiecaidan_profile.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/mainmenu.xml" value="0.536" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/majorsetting_kuaijiecaidan.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/majorsetting_menu.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/menu/tongxuehaoyou_menu.xml" value="0.24739583333333334" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/mipmap-anydpi-v26/ic_back_arrow.xml" value="0.2635416666666667" />
+        <entry key="..\:/Program Files/Android/Projects/Shiyan1/app/src/main/res/mipmap-anydpi-v26/ic_back_arrow_round.xml" value="0.2635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

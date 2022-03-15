@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/tianjia"
+        android:title="添加">
+        <menu>
+            <group>
+                <item android:id="@+id/tianjia_moshengren"
+                    android:title="陌生人"/>
+                <item android:id="@+id/haoyou_fenxiang"
+                    android:title="好友分享"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/neibucunchu"
+        android:title="内部存储">
+        <menu>
+            <group>
+                <item android:id="@+id/nbcc_daoru"
+                    android:title="导入"/>
+                <item android:id="@+id/nbcc_daochu"
+                    android:title="导出"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/waibucunchu"
+        android:title="外部存储">
+        <menu>
+            <group>
+                <item android:id="@+id/wbcc_daoru"
+                    android:title="导入"/>
+                <item android:id="@+id/wbcc_daochu"
+                    android:title="导出"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/searchbar"
+        android:title="搜索"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView" />
+</menu>

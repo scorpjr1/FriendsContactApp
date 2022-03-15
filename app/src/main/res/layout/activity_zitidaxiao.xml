@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ZitidaxiaoActivity">
+
+    <TextView
+        android:id="@+id/tv_ziti1"
+        android:textSize="@dimen/text_large_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="70dp"
+        android:text="拖动下方的滑块，可以设置字体大小。"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_ziti2"
+        android:textSize="@dimen/text_small_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="30dp"
+        android:text="预览字体大小"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_ziti1" />
+
+    <TextView
+        android:id="@+id/tv_ziti3"
+        android:textSize="@dimen/text_regular_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:text="设置后，改变程序界面中的字体大小。"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_ziti2" />
+
+    <SeekBar
+        android:id="@+id/sb_fontSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_zitiBiaozhun" />
+
+    <TextView
+        android:id="@+id/tv_zitiBiaozhun"
+        android:textSize="@dimen/text_regular_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="88dp"
+        android:text="标准"
+        app:layout_constraintStart_toEndOf="@+id/tv_zitiXiao"
+        app:layout_constraintTop_toTopOf="@+id/tv_zitiXiao" />
+
+    <TextView
+        android:id="@+id/tv_zitiXiao"
+        android:textSize="@dimen/text_small_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="75dp"
+        android:text="小"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_ziti3" />
+
+    <TextView
+        android:id="@+id/tv_zitiDa"
+        android:textSize="@dimen/text_large_text_size"
+        android:layout_width="wrap_content"
+        android:layout_height="19dp"
+        android:layout_marginEnd="30dp"
+        android:text="大"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tv_zitiBiaozhun" />
+</androidx.constraintlayout.widget.ConstraintLayout>

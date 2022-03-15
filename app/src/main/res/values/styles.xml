@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text_small_wh">
+        <item name="android:textSize">@dimen/text_small_text_size</item>
+    </style>
+
+    <style name="text_regular_wh">
+        <item name="android:textSize">@dimen/text_regular_text_size</item>
+    </style>
+
+    <style name="text_large_wh">
+        <item name="android:textSize">@dimen/text_large_text_size</item>
+    </style>
+
+</resources>
